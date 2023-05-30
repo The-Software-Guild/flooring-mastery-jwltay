@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+9,Mackey Rat,TX,4.45,Tile,234,3.50,4.15,819.00,971.10,79.659450,1869.759450
