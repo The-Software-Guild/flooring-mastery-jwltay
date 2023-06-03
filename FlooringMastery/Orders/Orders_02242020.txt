@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+6,Bomb Voyage,WA,9.25,Wood,456,5.15,4.75,2348.40,2166.00,417.582000,4931.982000

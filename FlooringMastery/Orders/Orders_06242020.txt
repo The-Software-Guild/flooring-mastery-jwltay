@@ -1,0 +1,12 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+11,Glasspipe Voyage,WA,9.25,Wood,456,5.15,4.75,2348.40,2166.00,417.582,4931.982
+11,Glasspipe Voyage,WA,9.25,Wood,456,5.15,4.75,2348.40,2166.00,417.582,4931.982
+11,Glasspipe Voyage,WA,9.25,Wood,456,5.15,4.75,2348.40,2166.00,417.582,4931.982
+21,Glasspipe Voyage,WA,9.25,Wood,456,5.15,4.75,2348.40,2166.00,417.582,4931.982
+21,Glasspipe Voyage,WA,9.25,Wood,456,5.15,4.75,2348.40,2166.00,417.582,4931.982
+20,Glasspipe Voyage,WA,9.25,Wood,456,5.15,4.75,2348.40,2166.00,417.582,4931.982
+20,Glasspipe Voyage,WA,9.25,Wood,456,5.15,4.75,2348.40,2166.00,417.582,4931.982
+20,Glasspipe Voyage,WA,9.25,Wood,456,5.15,4.75,2348.40,2166.00,417.582,4931.982
+20,Glasspipe Voyage,WA,9.25,Wood,456,5.15,4.75,2348.40,2166.00,417.582,4931.982
+20,Glasspipe Voyage,WA,9.25,Wood,456,5.15,4.75,2348.40,2166.00,417.582,4931.982
+20,Glasspipe Voyage,WA,9.25,Wood,456,5.15,4.75,2348.40,2166.00,417.582,4931.982
